@@ -2,6 +2,7 @@
 
 A Restful API developed with **Java(JAX-RS)** using **Jersey** framework based on **REST** architechture along with consistent **MySQL** database model which is scalable enough to work with large number of users.
 *Each request is POST with request parameters in JSON format*
+
 *Output is JSON as well.*
 
 ## Details
